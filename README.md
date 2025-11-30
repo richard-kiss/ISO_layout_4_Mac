@@ -1,1 +1,1 @@
-# Hungarian ISO keyboard layout for Mac
+# Hungarian ISO QWERTZ keyboard layout for Mac
